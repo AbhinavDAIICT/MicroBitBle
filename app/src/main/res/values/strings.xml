@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">MicroBitBle</string>
+    <string name="reminder_list_name">reminder list name</string>
+    <string name="list_entry">list entry</string>
+    <string name="hint_list_name">Enter new list name</string>
+    <string name="done">Done</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_enter_list_name">Enter List Name</string>
+    <string name="repeat_on_days">Repeat on days</string>
+    <string name="schedule">schedule</string>
+    <string name="delete">delete</string>
+    <string name="edit">edit</string>
+    <string name="set_morning_hours">Set Morning Hours</string>
+    <string name="set_noon_hours">Set Noon Hours</string>
+    <string name="set_dinner_hours">Set Dinner Hours</string>
 </resources>
